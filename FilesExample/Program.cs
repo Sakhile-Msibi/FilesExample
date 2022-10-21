@@ -7,7 +7,7 @@ namespace FilesExample
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Sakhile\Noxolo_SARS_Number.pdf";
+            string path = @"C:\Sakhile\";
 
             Console.WriteLine("Reading File using File.ReadAllText()");
             
